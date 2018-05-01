@@ -1,0 +1,9 @@
+textarea{
+    resize:none;
+}
+p{
+    text-align: center;
+    font-size : 16px !important;
+    font-weight: bold;
+    color: red;
+}
