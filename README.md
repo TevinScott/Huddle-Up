@@ -1,9 +1,11 @@
 # Huddle Up
 
 
-https://drive.google.com/open?id=18RZjoflMZ5YYyWCVth0tGDxJ0mA2Y3CG
+<img src= 'https://image.ibb.co/iW5sr7/Screen_Shot_2018_05_01_at_2_09_18_AM.png' max-width = '200'>
 <hr>
 <img src= 'https://image.ibb.co/bxbMjS/Screen_Shot_2018_05_01_at_8_09_44_PM.png' max-width = '200'>
+<hr>
+<img src= 'https://image.ibb.co/dyWAdn/Screen_Shot_2018_05_01_at_7_45_02_PM.png' max-width = '200'>
 # project description
 HuddleUp is an event planning and scheduling application. Users can create
 an event, invite users, and post updates to the event. Users invited to the
