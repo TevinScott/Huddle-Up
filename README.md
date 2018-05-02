@@ -1,8 +1,8 @@
 # Huddle Up
 
-<img src= 'https://image.ibb.co/bxbMjS/Screen_Shot_2018_05_01_at_8_09_44_PM.png' max-width = '300'>
-<hr>
 <img src= 'https://image.ibb.co/dyWAdn/Screen_Shot_2018_05_01_at_7_45_02_PM.png' max-width = '200'>
+<hr>
+<img src= 'https://image.ibb.co/bxbMjS/Screen_Shot_2018_05_01_at_8_09_44_PM.png' max-width = '300'>
 <hr>
 <img src= 'https://image.ibb.co/iW5sr7/Screen_Shot_2018_05_01_at_2_09_18_AM.png' max-width = '200'>
 # project description
